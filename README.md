@@ -1,23 +1,22 @@
 # ia-front
 
-## Project setup
+## Demo de vue consumiendo una API
+```
+```
+### Debes tener yarn instalado, si no tienes yarn, puedes instalarlo con npm:
+
+```
+npm install --global yarn
+```
+
+### Luego dentro del proyecto, instalas sus dependencias con el siguiente comando:
 ```
 yarn install
 ```
 
-### Compiles and hot-reloads for development
+### Ejecutas el proyecto con el siguiente comando
 ```
 yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
 ```
 
 ### Customize configuration
